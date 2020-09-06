@@ -1,0 +1,13 @@
+/home/edmara/algoritmos/PesquisaBinaria/obj/Debug/netcoreapp3.1/PesquisaBinaria.csprojAssemblyReference.cache
+/home/edmara/algoritmos/PesquisaBinaria/obj/Debug/netcoreapp3.1/PesquisaBinaria.AssemblyInfoInputs.cache
+/home/edmara/algoritmos/PesquisaBinaria/obj/Debug/netcoreapp3.1/PesquisaBinaria.AssemblyInfo.cs
+/home/edmara/algoritmos/PesquisaBinaria/obj/Debug/netcoreapp3.1/PesquisaBinaria.csproj.CoreCompileInputs.cache
+/home/edmara/algoritmos/PesquisaBinaria/bin/Debug/netcoreapp3.1/PesquisaBinaria
+/home/edmara/algoritmos/PesquisaBinaria/bin/Debug/netcoreapp3.1/PesquisaBinaria.deps.json
+/home/edmara/algoritmos/PesquisaBinaria/bin/Debug/netcoreapp3.1/PesquisaBinaria.runtimeconfig.json
+/home/edmara/algoritmos/PesquisaBinaria/bin/Debug/netcoreapp3.1/PesquisaBinaria.runtimeconfig.dev.json
+/home/edmara/algoritmos/PesquisaBinaria/bin/Debug/netcoreapp3.1/PesquisaBinaria.dll
+/home/edmara/algoritmos/PesquisaBinaria/bin/Debug/netcoreapp3.1/PesquisaBinaria.pdb
+/home/edmara/algoritmos/PesquisaBinaria/obj/Debug/netcoreapp3.1/PesquisaBinaria.dll
+/home/edmara/algoritmos/PesquisaBinaria/obj/Debug/netcoreapp3.1/PesquisaBinaria.pdb
+/home/edmara/algoritmos/PesquisaBinaria/obj/Debug/netcoreapp3.1/PesquisaBinaria.genruntimeconfig.cache
